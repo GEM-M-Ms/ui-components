@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.download-table-xls-button {
+  font-family: sans-serif;
+  background-color: white;
+  border: solid 1px #113852;
+  border-radius: 30px;
+  color: #113852;
+  height: 43px;
+  width: 126px;
+  transition-duration: 0.4s;
+}
+.download-table-xls-button:hover {
+  background-color: #113852;
+  color: white;
+}
+
+table {
+  font-family: sans-serif;
+  padding-top: 16px;
+  color: #113852;
+}
+
+th {
+  padding: 8px 16px;
+  color: #113852;
+  background-color: #d6f3f6;
+}
+
+td {
+  padding: 8px 16px;
+  color: #113852;
+  border-bottom: solid 1px #c4c4c4;
+}
